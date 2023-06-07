@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 * Email me at reach.syedansshah@gmail.com 
 *  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-*  [![LinkedIn]([https://shields.io/](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white))
+*  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 * LinkedIn: [![https://www.linkedin.com/in/syed-ans-shah/](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 * Twitter: https://twitter.com/SyedAnsShah1
 * Instagram: 
