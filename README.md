@@ -4,11 +4,12 @@
 - 💞️ I’m looking to collaborate on anyplace and anyways
 - 📫 How to reach me: 
 * Email me at reach.syedansshah@gmail.com 
-* [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](gmail.com) | reach.syedansshah@gmail.com 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/syed-ans-shah/) | https://www.linkedin.com/in/syed-ans-shah/
-* [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SyedAnsShah1) | https://twitter.com/SyedAnsShah1
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sy3danasshah/) | https://www.instagram.com/sy3danasshah/
-* [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SyedAnsShah1) | https://twitter.com/SyedAnsShah1
+ 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/syed-ans-shah/) 
+* [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SyedAnsShah1) 
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sy3danasshah/) 
+* [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SyedAnsShah1) 
+
 
 - ✨
 <!---
