@@ -6,8 +6,10 @@
 * Email me at reach.syedansshah@gmail.com 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/syed-ans-shah/)
 * [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SyedAnsShah1)
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/syed-ans-shah/)
+* [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SyedAnsShah1)
 * Twitter: https://twitter.com/SyedAnsShah1
-* Instagram: 
+* Instagram:  https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 - ✨
 <!---
 syedansshah/syedansshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
